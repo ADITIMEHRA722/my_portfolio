@@ -2,7 +2,7 @@ import youtube from '../assets/youtube.svg'
 import Netflix from '../assets/netflix.svg'
 import Group from '../assets/Group.svg'
 import Group1 from '../assets/Group1.svg'
-import project5_img from '../assets/project_5.svg'
+import Group2 from '../assets/Group2.svg'
 import project6_img from '../assets/project_6.svg'
 
 const mywork_data = [
@@ -25,6 +25,11 @@ const mywork_data = [
         w_no:4,
         w_name:"Web design",
         w_img:Group1
+    },
+    {
+        w_no:5,
+        w_name:"Web design",
+        w_img:Group2
     },
    
 ]
